@@ -6,4 +6,4 @@ def triangle(n):
     if n > 0:
         print("/" + "_" * (2 * n - 2) + "\\")
 
-triangle(5)
+triangle(55)
